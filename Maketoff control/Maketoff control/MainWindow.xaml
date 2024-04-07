@@ -1,0 +1,37 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Maketoff_control"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="Maketoff_control.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="768" Width="1366" WindowStartupLocation="CenterScreen" WindowState="Maximized" WindowStyle="None">
+    <Window.Resources>
+        <System:String x:Key="Object1">CheckBox</System:String>
+    </Window.Resources>
+    <Window.Background>
+        <ImageBrush ImageSource="pack://siteoforigin:,,,/background.jpg" />
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="23*" />
+            <RowDefinition Height="319*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="142*" />
+            <ColumnDefinition Width="375*" />
+        </Grid.ColumnDefinitions>
+        <CheckBox x:Name="chk1" Content="BUTTON 1" Style="{DynamicResource Blub_chk}" Margin="12.182,4.384,0,0" FontFamily="Nosegrind Demo" FontSize="26.667" HorizontalAlignment="Left" Width="231.65" Height="55.616" VerticalAlignment="Top" Grid.Column="1" Grid.Row="1"  Click="chkEv" />
+        <CheckBox x:Name="chk2" Content="BUTTON 2" Style="{DynamicResource Blub_chk}" Margin="12.182,65,0,0" FontFamily="Nosegrind Demo" FontSize="26.667" HorizontalAlignment="Left" Width="231.65" Height="55.616" VerticalAlignment="Top" Grid.Column="1" Grid.Row="1" Click="chkEv" />
+        <CheckBox x:Name="chk3" Content="BUTTON 3" Style="{DynamicResource Blub_chk}" Margin="12.182,125.616,0,0" FontFamily="Nosegrind Demo" FontSize="26.667" HorizontalAlignment="Left" Width="231.65" Height="55.616" VerticalAlignment="Top" Grid.Column="1" Grid.Row="1" Click="chkEv" />
+        <CheckBox x:Name="chk4" Content="BUTTON 4" Style="{DynamicResource Blub_chk}" Margin="12.182,186.232,0,0" FontFamily="Nosegrind Demo" FontSize="26.667" HorizontalAlignment="Left" Width="231.65" Height="55.616" VerticalAlignment="Top" Grid.Column="1" Grid.Row="1" Click="chkEv" />
+        <CheckBox x:Name="chk5" Content="BUTTON 5" Style="{DynamicResource Blub_chk}" Margin="222.182,10,0,0" FontFamily="Nosegrind Demo" FontSize="26.667" HorizontalAlignment="Left" Width="231.65" Height="55.616" VerticalAlignment="Top" Grid.Column="1" Grid.Row="1" Click="chkEv" />
+        <CheckBox x:Name="chk6" Content="BUTTON 6" Style="{DynamicResource Blub_chk}" Margin="222.182,70.616,0,0" FontFamily="Nosegrind Demo" FontSize="26.667" HorizontalAlignment="Left" Width="231.65" Height="55.616" VerticalAlignment="Top" Grid.Column="1" Grid.Row="1" Click="chkEv" />
+        <CheckBox x:Name="chk7" Content="BUTTON 7" Style="{DynamicResource Blub_chk}" Margin="222.182,131.232,0,0" FontFamily="Nosegrind Demo" FontSize="26.667" HorizontalAlignment="Left" Width="231.65" Height="55.616" VerticalAlignment="Top" Grid.Column="1" Grid.Row="1" Click="chkEv" />
+        <CheckBox x:Name="chk8" Content="BUTTON 8" Style="{DynamicResource Blub_chk}" Margin="222.182,191.848,0,0" FontFamily="Nosegrind Demo" FontSize="26.667" HorizontalAlignment="Left" Width="231.65" Height="55.616" VerticalAlignment="Top" Grid.Column="1" Grid.Row="1" Click="chkEv" />
+        <TextBlock x:Name="text2" Grid.Column="1" HorizontalAlignment="Left" Height="36" Margin="320.51,310.889,0,0" Grid.Row="1" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="186" />
+        <Button x:Name="button" Content="Connect" Grid.Column="1" HorizontalAlignment="Left" Margin="47,10,0,0" VerticalAlignment="Top" Width="75" Click="connect_btn_Click" />
+        <TextBox x:Name="conStat" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="159,10,0,0" TextWrapping="Wrap" Text="DisConnected" VerticalAlignment="Top" Width="120" />
+    </Grid>
+</Window>

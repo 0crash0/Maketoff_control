@@ -1,0 +1,66 @@
+C:\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\bin\Debug\Maketoff control.exe.config
+C:\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\bin\Debug\Maketoff control.exe
+C:\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\bin\Debug\Maketoff control.pdb
+C:\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\Maketoff control.csprojResolveAssemblyReference.cache
+C:\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\MainWindow.g.cs
+C:\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\App.g.cs
+C:\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\Maketoff control_MarkupCompile.cache
+C:\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\Maketoff control_MarkupCompile.lref
+C:\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\App.baml
+C:\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\MainWindow.baml
+C:\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\Maketoff control.g.resources
+C:\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\Maketoff_control.Properties.Resources.resources
+C:\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\Maketoff control.csproj.GenerateResource.Cache
+C:\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\Maketoff control.exe
+C:\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\Maketoff control.pdb
+C:\1old\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\bin\Debug\background.jpg
+C:\1old\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\bin\Debug\Maketoff control.exe.config
+C:\1old\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\bin\Debug\Maketoff control.exe
+C:\1old\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\bin\Debug\Maketoff control.pdb
+C:\1old\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\MainWindow.g.cs
+C:\1old\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\App.g.cs
+C:\1old\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\Maketoff control_MarkupCompile.cache
+C:\1old\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\Maketoff control_MarkupCompile.lref
+C:\1old\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\App.baml
+C:\1old\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\MainWindow.baml
+C:\1old\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\Maketoff control.g.resources
+C:\1old\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\Maketoff_control.Properties.Resources.resources
+C:\1old\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\Maketoff control.csproj.GenerateResource.Cache
+C:\1old\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\Maketoff control.exe
+C:\1old\Users\0crash0\Documents\Visual Studio 2015\Projects\Maketoff control\Maketoff control\obj\Debug\Maketoff control.pdb
+D:\1projects\programming\visual studio\Maketoff control\Maketoff control\bin\Debug\Maketoff control.exe.config
+D:\1projects\programming\visual studio\Maketoff control\Maketoff control\obj\Debug\Maketoff control.exe
+D:\1projects\programming\visual studio\Maketoff control\Maketoff control\obj\Debug\Maketoff control.pdb
+D:\1projects\1programming\visual studio\Maketoff control\Maketoff control\bin\Debug\Maketoff control.exe.config
+D:\1projects\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\Maketoff control.exe
+D:\1projects\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\Maketoff control.pdb
+D:\1projects\1programming\visual studio\Maketoff control\Maketoff control\bin\Debug\background.jpg
+D:\1projects\1programming\visual studio\Maketoff control\Maketoff control\bin\Debug\Maketoff control.exe
+D:\1projects\1programming\visual studio\Maketoff control\Maketoff control\bin\Debug\Maketoff control.pdb
+D:\1projects\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\Maketoff control.csprojResolveAssemblyReference.cache
+D:\1projects\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\MainWindow.g.cs
+D:\1projects\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\App.g.cs
+D:\1projects\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\Maketoff control_MarkupCompile.cache
+D:\1projects\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\Maketoff control_MarkupCompile.lref
+D:\1projects\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\App.baml
+D:\1projects\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\MainWindow.baml
+D:\1projects\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\Maketoff control.g.resources
+D:\1projects\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\Maketoff_control.Properties.Resources.resources
+D:\1projects\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\Maketoff control.csproj.GenerateResource.Cache
+C:\Users\dj-ho\Desktop\1programming\visual studio\Maketoff control\Maketoff control\bin\Debug\background.jpg
+C:\Users\dj-ho\Desktop\1programming\visual studio\Maketoff control\Maketoff control\bin\Debug\Maketoff control.exe.config
+C:\Users\dj-ho\Desktop\1programming\visual studio\Maketoff control\Maketoff control\bin\Debug\Maketoff control.exe
+C:\Users\dj-ho\Desktop\1programming\visual studio\Maketoff control\Maketoff control\bin\Debug\Maketoff control.pdb
+C:\Users\dj-ho\Desktop\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\Maketoff control.csproj.AssemblyReference.cache
+C:\Users\dj-ho\Desktop\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\MainWindow.g.cs
+C:\Users\dj-ho\Desktop\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\App.g.cs
+C:\Users\dj-ho\Desktop\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\Maketoff control_MarkupCompile.cache
+C:\Users\dj-ho\Desktop\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\Maketoff control_MarkupCompile.lref
+C:\Users\dj-ho\Desktop\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\App.baml
+C:\Users\dj-ho\Desktop\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\MainWindow.baml
+C:\Users\dj-ho\Desktop\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\Maketoff control.g.resources
+C:\Users\dj-ho\Desktop\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\Maketoff_control.Properties.Resources.resources
+C:\Users\dj-ho\Desktop\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\Maketoff control.csproj.GenerateResource.cache
+C:\Users\dj-ho\Desktop\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\Maketoff control.csproj.CoreCompileInputs.cache
+C:\Users\dj-ho\Desktop\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\Maketoff control.exe
+C:\Users\dj-ho\Desktop\1programming\visual studio\Maketoff control\Maketoff control\obj\Debug\Maketoff control.pdb
